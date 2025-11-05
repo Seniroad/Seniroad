@@ -33,9 +33,6 @@
 
 <p align='center'>
   <a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username={Seniroad}&theme={tokyo-night}">
-  </a>&nbsp;&nbsp;
-  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=Seniroad&show_icons=true&count_private=true&theme=dark" width="350">        
   </a>
 </p>
