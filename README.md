@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Seniro (Seniro_ad, Seniro(btw), Сениро(бтв))
+  Hi, I'm Seniro (Seniro_ad, Seniro(btw), Сениро(бтв), tg Seniro_dg)
 </h1>
 
 <p align='center'>
